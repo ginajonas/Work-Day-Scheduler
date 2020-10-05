@@ -12,3 +12,5 @@ Each timeblock is color coded to indicate whether it is in the past, present, or
 Click into a timeblock, enter and save  an event.
 
 On page refresh, saved events persist.
+
+https://ginajonas.github.io/Work-Day-Scheduler/
